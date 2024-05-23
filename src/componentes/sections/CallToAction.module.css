@@ -1,0 +1,12 @@
+.CallToAction{
+    text-align: center;
+}
+
+.CallToAction h1{
+    font-size: 40px;
+    color: rgb(209, 14, 14);
+}
+
+.CallToAction p{
+    font-size: 22px;
+}

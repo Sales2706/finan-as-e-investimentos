@@ -1,0 +1,25 @@
+.Contents{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 100px;
+    padding: 25px;
+}
+
+.Contents h1{
+    color: rgb(209, 14, 14);
+    font-size: 40px;
+}
+
+.Contents ul{
+    margin-top: 50px;
+}
+
+.Contents li{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 25%;
+}
+
+.Contents p{
+    font-size: 22px;
+}

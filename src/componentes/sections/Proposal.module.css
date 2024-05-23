@@ -1,0 +1,17 @@
+.Proposal{
+   text-align: center;
+}
+
+.Proposal h1{
+    font-size: 50px;
+    color: rgb(209, 14, 14);
+}
+
+.Proposal p{
+    font-size: 24px;
+}
+
+.Proposal b{
+    font-size: 26px;
+    color: rgb(209, 14, 14) ;
+}

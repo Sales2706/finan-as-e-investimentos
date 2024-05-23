@@ -1,0 +1,17 @@
+.Guarantee{
+    text-align: center;
+    align-items: center;
+}
+
+.Guarantee h1{
+    font-size: 40px;
+    color: yellow;
+}
+
+.Guarantee p{
+    font-size: 20px;
+}
+
+.Guarantee img{
+    margin-top: 50px;
+}
